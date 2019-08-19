@@ -11,3 +11,9 @@ repository: 'opencadc/opencadc.github.io'
 organization_name: 'opencadc'
 plugins:
   - jekyll-redirect-from
+
+title: "OpenCADC "
+description: Like the Astronomy your mum used to make, only better.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
